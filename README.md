@@ -45,5 +45,3 @@ Description: Deep technical deployment guide focused on the selective "Pull" syn
 👉 Download VPS Pull-Method Blueprint (PDF)
 
 Disclaimer: This repository is part of a secure home-laboratory infrastructure designed exclusively for studying system resilience, data deduplication mechanics, and advanced Disaster Recovery prototyping.
-
-
