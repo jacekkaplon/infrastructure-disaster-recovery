@@ -36,12 +36,13 @@ The technical architectural design, script workflows, and restoration drills are
 Description: Enterprise-level disaster recovery handbook detailing global backup scheduling, retention rotation variables, and step-by-step restoration verification playbooks to ensure minimal Recovery Time Objective (RTO) inside virtualized topologies.
 
 
-👉 Download Cross-Site Backup Specification (PDF)
+👉 [Download Cross-Site Backup Specification (PDF)](./Automated%20Cross-Site%20Backup%20%26%20Restore%20System.pdf)
+
 
 📄 2. Selective Cloud Config Backup Blueprint (Pull-Method)
 Description: Deep technical deployment guide focused on the selective "Pull" synchronization methodology. Documents precise user privileges mitigation, target directories grouping, and automation script validation procedures.
 
 
-👉 Download VPS Pull-Method Blueprint (PDF)
+👉 [Download VPS Pull-Method Blueprint (PDF)](./VPS_Config_Backup__EN.pdf)
 
 Disclaimer: This repository is part of a secure home-laboratory infrastructure designed exclusively for studying system resilience, data deduplication mechanics, and advanced Disaster Recovery prototyping.
